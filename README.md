@@ -75,3 +75,7 @@ Componends are said to be a peace of code or part of code which can be easily re
 
 Functional components - It is return as a function and can be imported in the required file or main file by exporting it.
 Class components - It is return as a class and can be imported in the required file or main file by exporting it.
+
+JSX:
+Javascript XML
+It is a integrated HTML content used along with Javascript
